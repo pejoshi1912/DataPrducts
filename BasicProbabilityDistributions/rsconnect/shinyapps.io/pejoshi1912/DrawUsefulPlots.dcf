@@ -1,0 +1,12 @@
+name: DrawUsefulPlots
+title: DrawUsefulPlots
+username:
+account: pejoshi1912
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 291440
+bundleId: 1248155
+url: https://pejoshi1912.shinyapps.io/DrawUsefulPlots/
+when: 1519959666.92782
+asMultiple: FALSE
+asStatic: FALSE
